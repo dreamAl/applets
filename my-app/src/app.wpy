@@ -8,7 +8,10 @@ wepy.app({
 <config>
 {
   "pages": [
-    "pages/index"
+    "pages/index",
+    "pages/sort",
+    "pages/shoppingcar",
+    "pages/my"
   ],
   "window": {
     "navigationBarBackgroundColor": "#4697e4",
@@ -17,6 +20,36 @@ wepy.app({
     "backgroundColor": "#bbbbbb",
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": true
-  }
+  },
+    "tabBar": {
+        "color":"#353535",
+        "selectedColor":"#4697e4",
+      "list": [        
+        {
+        "pagePath": "pages/index",
+        "text": "首页",
+        "iconPath": "img/sy.png",
+        "selectedIconPath": "img/sy1.png"
+      },
+      {
+        "pagePath": "pages/sort",
+        "text": "分类",
+        "iconPath": "img/fl.png",
+        "selectedIconPath": "img/fl1.png"        
+      },
+      {
+        "pagePath": "pages/shoppingcar",
+        "text": "购物车",
+        "iconPath": "img/gwc.png",
+        "selectedIconPath": "img/gwc1.png"
+      },
+      {
+        "pagePath": "pages/my",
+        "text": "我的",
+        "iconPath": "img/wd.png",
+        "selectedIconPath": "img/wd1.png"
+      }
+      ]
+    }
 }
 </config>

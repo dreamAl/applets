@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <p>我的页面</p>
+    </div>
+</template>
+<script>
+import wepy from '@wepy/core'
+
+wepy.page({
+  // 选项
+})
+</script>

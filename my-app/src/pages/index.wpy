@@ -1,6 +1,14 @@
 <template>
     <div>
         <p>我是首页</p>
+        <img src="../img/wd.png" alt="">
+        <img src="../img/wd1.png" alt="">
+        <img src="../img/gwc.png" alt="">
+        <img src="../img/gwc1.png" alt="">
+        <img src="../img/fl.png" alt="">
+        <img src="../img/fl1.png" alt="">
+        <img src="../img/sy.png" alt="">
+        <img src="../img/sy1.png" alt="">
     </div>
 </template>
 <script>
