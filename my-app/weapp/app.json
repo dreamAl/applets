@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#4697e4",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "WIS微信官方商城",
+    "backgroundColor": "#bbbbbb",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
+  "sitemapLocation": "sitemap94.json"
+}
