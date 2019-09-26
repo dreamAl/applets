@@ -34,7 +34,7 @@ var process = { env: {} };
    return __wepy_require;
 })([
 /***** module 0 start *****/
-/***** d:\study\three\next month\my-Applets\my-app\node_modules\@wepy\core\dist\wepy.js *****/
+/***** e:\next three\applets\my-app\node_modules\@wepy\core\dist\wepy.js *****/
 function(module, exports, __wepy_require) {'use strict';
 
 // can we use __proto__?
